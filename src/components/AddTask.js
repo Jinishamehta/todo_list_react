@@ -1,4 +1,4 @@
-import React from 'react'
+import '../styles/AddTask.css'
 
 export const AddTask = ({ tasks, setTasks, task, setTask}) => {
 
